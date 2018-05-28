@@ -1,6 +1,6 @@
 # Identificación de datos urbanos para medir los ODS en las ciudades españolas
 
-![medir ods](https://www.medialab-prado.es/proyectos/identificacion-de-datos-urbanos-para-medir-los-ods-en-las-ciudades-espanolas)
+![medir ods](https://www.medialab-prado.es/sites/default/files/styles/imagenes_medianas/public/2018-05/ODS%20en%20Espa%C3%B1a.png?itok=hpUnisxW)
 
 El mundo está viviendo procesos de cambio acelerado y disruptivo sin precedentes, en los que el proceso de urbanización creciente e imparable, el consumo de recursos naturales y las nuevas tecnologías digitales, el reto demográfico y la despoblación están generando nuevos paradigmas en muchos aspectos claves para la sociedad.
 
